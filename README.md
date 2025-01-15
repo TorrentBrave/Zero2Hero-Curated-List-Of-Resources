@@ -15,3 +15,5 @@
 # Honorable Mentions 🌟
 
 🔸 [__Stop wasting your submission times__](https://www.kaggle.com/code/sunkaiqing/stop-wasting-your-submission-times)
+
+🔸 [__Notes on parallel/distributed training in PyTorch__](https://www.kaggle.com/code/residentmario/notes-on-parallel-distributed-training-in-pytorch)

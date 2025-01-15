@@ -10,6 +10,8 @@
 
 ## [master NLP](https://www.kaggle.com/code/rftexas/nlp-cheatsheet-master-nlp)
 
+## [The NLP Reading list you should have!](https://www.kaggle.com/competitions/jigsaw-toxic-severity-rating/discussion/286334)
+
 # Honorable Mentions 🌟
 
 🔸 [__Stop wasting your submission times__](https://www.kaggle.com/code/sunkaiqing/stop-wasting-your-submission-times)

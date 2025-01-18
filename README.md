@@ -21,3 +21,5 @@
 * data parallelism
 
 * model parallelism
+
+🔸 [__LLM-Learning__](https://www.kaggle.com/discussions/questions-and-answers/509942)
